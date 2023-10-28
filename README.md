@@ -12,7 +12,7 @@ In the terminal, run 'npm install' to get all of the dependencies. Then, run 'np
 
 [Heroku App](https://serene-journey-74607-8118324d7101.herokuapp.com/)
 
-[!screenshot](./client/src/images/ta-sc.JPG)
+![screenshot](./client/src/images/ta-sc.JPG)
 
 Use the text editor to help you write code, or any text. When you reload the page, your text will be saved in the indexedDB database (currently there is an issue getting saved text to display). If the server stops, you will still be able to use the app offline and it will still save your data. You can also install this app by clicking on the 'install' button and following the prompts. Then, a icon will appear on your taskbar so you can use the app from your desktop!
 
